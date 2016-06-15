@@ -1,7 +1,7 @@
 {
   "name": "Spencer Pease",
-  "tagline": "Portfolio Landing page",
-  "body": "# Welcome to my portfolio landing page!\r\nI threw together this simple site because I needed a place to share projects I'm most proud of. Here you will find links to these projects and some of my thoughts on them.\r\n\r\n### 2016 General Election Campaign Spending\r\nIn this project my team and I explored the spending habits of the 2016 presidential candidates for each candidate, as well as compare their spending habits against each other.\r\nCheck it out [here](https://spencer501.shinyapps.io/498f-final/).\r\n\r\n### UW Classmate\r\nUW classmate is a prototype app that facilitates finding and managing study groups for UW college classes. By making it easier to find compatible study partners, this app will hopefully lead to better academic performance.\r\nExplore the prototype [here](https://invis.io/267NE308N#/121054863_31_Login).\r\n\r\n",
+  "tagline": "portfolio landing page",
+  "body": "# Welcome to my portfolio!\r\nI threw together this simple site because I needed a place to share the projects I'm most proud of. Here you will find links to these projects and some of my thoughts on them.\r\n\r\n### 2016 General Election Campaign Spending\r\nIn this project my team and I explored the spending habits of the 2016 presidential candidates for each candidate, as well as compare their spending habits against each other.\r\nCheck it out [here](https://spencer501.shinyapps.io/498f-final/).\r\n\r\n### UW Classmate\r\nUW classmate is a prototype app that facilitates finding and managing study groups for UW college classes. By making it easier to find compatible study partners, this app will hopefully lead to better academic performance.\r\nExplore the prototype [here](https://invis.io/267NE308N#/121054863_31_Login).",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
